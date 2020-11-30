@@ -7,7 +7,7 @@ Datasets used for analysis:<br>
 **Labour cost**:https://stats.oecd.org/Index.aspx?QueryId=55089#<br>
 **Trade** :https://data.oecd.org/trade/trade-in-goods-and-services.htm<br>
 **Project-Tree**
- The code for analysis are contained in the following mentioned.ipnyb files
+ The code for analysis are contained in the following mentioned .ipnyb files
 
 # Project tree
  * Project
