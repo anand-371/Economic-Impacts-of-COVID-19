@@ -8,7 +8,7 @@ Datasets used for analysis:<br>
 **Trade** :https://data.oecd.org/trade/trade-in-goods-and-services.htm<br>
 **Project-Tree**
  The code for analysis are contained in the following mentioned.ipnyb files
-$ ./tree-md .
+
 # Project tree
  * Project
  * DA
