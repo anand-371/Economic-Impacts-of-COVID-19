@@ -30,10 +30,16 @@ Datasets used for analysis:<br>
    * unemploy_clean.csv
   
 ## Installation
+The `requirements.txt` contains all Python libraries that our notebooks use
+
+```
+pip install -r requirements.txt
+```
+
 You can find the installation documentation for the
 [Jupyter platform, on ReadTheDocs](https://jupyter.readthedocs.io/en/latest/install.html).
 
-For a local installation, make sure you have
+For only a local installation of Jupyter Notebook, make sure you have
 [pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
 
     $ pip install notebook
@@ -45,3 +51,4 @@ For a local installation, make sure you have
 Launch with:
 
     $ jupyter notebook
+
