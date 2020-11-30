@@ -21,4 +21,11 @@ $ ./tree-md .
    * labour_models.ipynb
    * trade_models.ipynb
    * visualisations.ipynb
+* Datasets
+   * clean_unemployment.csv
+   * final_data.csv
+   * labour_cost.csv
+   * trade.csv
+   * unemp_yearly.csv
+   * unemploy_clean.csv
   
