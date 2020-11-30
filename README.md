@@ -1,5 +1,5 @@
 # Economic-Impacts-of-COVID-19
- Impact of Covid-19 on World Economy
+ Impacts of Covid-19 on World Economy
 
 Datasets used for analysis:<br>
 **GDP**:https://data.oecd.org/gdp/quarterly-gdp.htm<br>
