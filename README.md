@@ -15,7 +15,7 @@ Datasets used for analysis:<br>
    * Analysis_GDP.ipynb
    * Anlaysis_Unemployment.ipynb
    * Cleaning_GDP.ipynb
- * analysis models
+ * Analysis Models
    * GDP_Models.ipynb
    * Unemp_Analysis_arima.ipynb
    * labour_models.ipynb
