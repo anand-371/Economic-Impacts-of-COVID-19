@@ -22,10 +22,10 @@ Datasets used for analysis:<br>
    * trade_models.ipynb
    * visualisations.ipynb
 * Datasets
-   * clean_unemployment.csv
-   * final_data.csv
-   * labour_cost.csv
-   * trade.csv
+   * clean_unemployment.csv - Annual Unemployment Rate for every country.
+   * final_data.csv - Cleaned datasets for annual GDP rates for every country.
+   * labour_cost.csv - Cleaned dataset for annual Labour Costs for every country.
+   * trade.csv - Cleaned dataset for annual International Trade for every country.
    * unemp_yearly.csv
    * unemploy_clean.csv
   
